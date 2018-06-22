@@ -1,0 +1,353 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+UBA642_01036         -          pks                  -           9.7e-181  609.2   0.0   2.9e-47  171.2   0.0   4.2   4   0   0   4   4   4   4 Polyketide synthase PksL
+UBA1597_00436        -          pks                  -           4.3e-178  600.6   0.5   3.5e-63  223.4   0.0   3.3   3   0   0   3   3   3   3 Polyketide synthase PksN
+UBA1839_00942        -          pks                  -           1.3e-177  599.0   0.5   3.5e-63  223.4   0.0   3.3   3   0   0   3   3   3   3 Polyketide synthase PksN
+UBA950_01096         -          pks                  -           1.5e-177  598.8   0.7   2.2e-63  224.0   0.0   3.3   3   0   0   3   3   3   3 Polyketide synthase PksN
+UBA5705_02662        -          pks                  -             2e-173  585.2   0.0   9.6e-61  215.4   0.0   3.3   3   0   0   3   3   3   3 Polyketide synthase PksN
+UBA938_00556         -          pks                  -             7e-130  442.3   0.0   2.4e-42  155.0   0.0   3.2   3   0   0   3   3   3   3 Polyketide synthase PksN
+UBA6061_04566        -          pks                  -           1.4e-127  434.7   0.0   8.2e-42  153.2   0.0   3.4   3   0   0   3   3   3   3 Narbonolide/10-deoxymethynolide synthase PikA1, modules 1 and 2
+UBA6563_00002        -          pks                  -           5.2e-125  426.3   0.0   6.8e-62  219.2   0.0   2.2   2   0   0   2   2   2   2 Polyketide synthase PksJ
+UBA3557_02979        -          pks                  -           3.7e-120  410.4   0.0   4.3e-61  216.5   0.0   2.3   2   0   0   2   2   2   2 Polyketide synthase PksM
+UBA3557_02978        -          pks                  -           3.1e-110  377.8   0.0   4.2e-53  190.3   0.0   2.3   2   0   0   2   2   2   2 Polyketide synthase PksN
+UBA938_00558         -          pks                  -           2.3e-104  358.6   0.0   9.4e-48  172.7   0.0   3.4   3   0   0   3   3   3   3 Polyketide synthase PksM
+UBA5705_01396        -          pks                  -            1.8e-98  339.2   0.0   8.8e-56  199.1   0.0   3.2   3   0   0   3   3   3   3 Polyketide synthase PksN
+UBA6219_00147        -          pks                  -            1.2e-93  323.3   4.4     3e-45  164.5   0.0   2.9   3   0   0   3   3   2   2 Polyketide synthase PksN
+UBA6159_02692        -          pks                  -            8.2e-92  317.4  18.9   1.9e-37  138.9   0.7   4.4   3   1   0   3   3   3   3 Polyketide synthase PksL
+UBA1597_00437        -          pks                  -            5.6e-89  308.1   0.0   1.7e-64  227.7   0.0   2.3   2   0   0   2   2   2   2 Polyketide synthase PksM
+UBA1839_00941        -          pks                  -            6.3e-89  307.9   0.0   1.7e-64  227.7   0.0   2.3   2   0   0   2   2   2   2 Polyketide synthase PksM
+UBA5705_02930        -          pks                  -            4.1e-88  305.2   0.0   3.2e-45  164.4   0.0   2.2   2   0   0   2   2   2   2 Polyketide synthase PksJ
+UBA950_01095         -          pks                  -            6.2e-88  304.6   0.0   3.7e-63  223.3   0.0   2.3   2   0   0   2   2   2   2 Polyketide synthase PksM
+UBA938_01619         -          pks                  -            3.8e-81  282.4   0.0   2.1e-39  145.3   0.0   3.2   2   1   0   2   2   2   2 Polyketide synthase PksN
+UBA5705_02663        -          pks                  -            6.9e-81  281.5   0.2   3.8e-59  210.1   0.1   2.6   3   0   0   3   3   2   2 Polyketide synthase PksM
+UBA5705_02664        -          pks                  -            3.5e-80  279.2   0.0   2.7e-54  194.2   0.0   2.4   2   0   0   2   2   2   2 Polyketide synthase PksL
+UBA950_01094         -          pks                  -              1e-79  277.7   0.0   1.4e-51  185.3   0.0   2.3   2   0   0   2   2   2   2 Polyketide synthase PksL
+UBA1839_00940        -          pks                  -            1.2e-79  277.5   0.0   3.3e-51  184.1   0.0   2.4   2   0   0   2   2   2   2 Polyketide synthase PksL
+UBA1597_00438        -          pks                  -            1.5e-79  277.1   0.0   2.7e-51  184.4   0.0   2.4   2   0   0   2   2   2   2 Polyketide synthase PksL
+UBA1160_01073        -          pks                  -            3.3e-76  266.1   1.8   6.2e-76  265.2   1.8   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA7539_00784        -          pks                  -            3.3e-76  266.1   1.8   6.2e-76  265.2   1.8   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA6159_02690        -          pks                  -            4.1e-73  256.0  21.9   1.2e-37  139.5   2.7   3.0   3   0   0   3   3   2   2 Polyketide synthase PksN
+UBA2566_04665        -          pks                  -            2.7e-69  243.5   0.0   4.5e-69  242.7   0.0   1.3   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA6050_00407        -          pks                  -            2.7e-69  243.5   0.0   4.5e-69  242.7   0.0   1.3   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA5870_00307        -          pks                  -            1.1e-68  241.5   0.7   1.9e-37  138.9   0.3   2.3   2   0   0   2   2   2   2 Polyketide synthase PksR
+UBA6047_02544        -          pks                  -            1.2e-67  238.1   0.0   1.8e-67  237.5   0.0   1.3   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA2566_03364        -          pks                  -            1.3e-67  237.9   0.0     2e-67  237.3   0.0   1.3   1   0   0   1   1   1   1 Mycocerosic acid synthase
+UBA6050_00926        -          pks                  -            1.3e-67  237.9   0.0     2e-67  237.3   0.0   1.3   1   0   0   1   1   1   1 Mycocerosic acid synthase
+UBA6061_01741        -          pks                  -            1.6e-66  234.4   0.0   2.5e-66  233.7   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA1583_00093        -          pks                  -            2.3e-66  233.8   0.0   3.5e-66  233.2   0.0   1.2   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA6047_02541        -          pks                  -            2.9e-66  233.5   0.0   4.4e-66  232.9   0.0   1.3   1   0   0   1   1   1   1 Mycocerosic acid synthase
+UBA2566_04664        -          pks                  -            4.1e-66  233.0   0.0   6.4e-66  232.4   0.0   1.2   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA6050_00408        -          pks                  -            4.1e-66  233.0   0.0   6.4e-66  232.4   0.0   1.2   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA6047_02545        -          pks                  -            5.6e-66  232.6   0.0   8.8e-66  231.9   0.0   1.2   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA5852_00672        -          pks                  -              3e-65  230.2   0.1   5.7e-65  229.3   0.1   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA3957_03536        -          pks                  -            1.4e-64  228.0   0.0   2.3e-64  227.3   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA3958_04194        -          pks                  -            1.4e-64  228.0   0.0   2.3e-64  227.3   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA1411_00801        -          pks                  -            2.2e-64  227.3   0.0     4e-64  226.5   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA3308_00444        -          pks                  -            5.8e-64  225.9   0.0   8.9e-64  225.3   0.0   1.2   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA3957_03538        -          pks                  -            5.8e-64  225.9   0.0   8.9e-64  225.3   0.0   1.2   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA3958_04193        -          pks                  -            7.3e-64  225.6   0.0   1.1e-63  225.0   0.0   1.2   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA3823_01304        -          pks                  -            2.2e-63  224.0   0.4   4.3e-63  223.1   0.0   1.7   2   0   0   2   2   1   1 Phenyloxazoline synthase MbtB
+UBA6213_02085        -          pks                  -            8.3e-63  222.2   1.3   1.8e-62  221.1   1.3   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA1839_00939        -          pks                  -            8.8e-63  222.1   0.0   1.4e-62  221.5   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA1597_00439        -          pks                  -            1.3e-62  221.5   0.0     2e-62  220.9   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA950_01093         -          pks                  -            1.4e-62  221.4   0.0   2.2e-62  220.7   0.0   1.4   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA1907_00499        -          pks                  -            7.3e-62  219.1   2.5   1.6e-61  217.9   2.5   1.6   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA5852_00674        -          pks                  -            8.7e-61  215.5   0.3   1.9e-60  214.4   0.3   1.6   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA7681_04129        -          pks                  -            8.7e-60  212.3   0.3   1.9e-59  211.1   0.3   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA6563_02651        -          pks                  -            1.2e-59  211.8   0.0   1.8e-59  211.2   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA5828_03215        -          pks                  -            1.3e-59  211.6   0.1   2.3e-59  210.9   0.1   1.3   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA1938_00994        -          pks                  -            1.6e-59  211.4   0.0   3.5e-59  210.3   0.0   1.5   1   0   0   1   1   1   1 Phthioceranic/hydroxyphthioceranic acid synthase
+UBA2792_02223        -          pks                  -            1.6e-59  211.3   2.3   3.2e-59  210.4   2.3   1.5   1   0   0   1   1   1   1 5-methyl-1-naphthoate synthase
+UBA5852_00951        -          pks                  -            8.8e-59  208.9   4.6   1.9e-58  207.8   4.6   1.5   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA5020_03456        -          pks                  -            1.9e-57  204.6   0.0   3.2e-57  203.8   0.0   1.4   1   0   0   1   1   1   1 Mycocerosic acid synthase-like polyketide synthase
+UBA5852_00670        -          pks                  -            3.9e-57  203.5   1.1     1e-56  202.2   1.1   1.7   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA4826_02322        -          pks                  -            1.6e-56  201.6   1.9     1e-55  198.9   1.9   2.1   1   1   0   1   1   1   1 Narbonolide/10-deoxymethynolide synthase PikA1, modules 1 and 2
+UBA6683_04379        -          pks                  -            2.1e-56  201.1   9.9   3.7e-56  200.3   9.9   1.4   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA5705_02665        -          pks                  -            3.3e-56  200.5   0.1   5.5e-56  199.8   0.1   1.4   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA6043_00715        -          pks                  -            9.8e-56  198.9   0.2   2.1e-55  197.9   0.0   1.6   2   0   0   2   2   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA7671_01472        -          pks                  -            1.3e-55  198.5   0.0   2.9e-55  197.4   0.0   1.6   1   0   0   1   1   1   1 Mycocerosic acid synthase-like polyketide synthase
+UBA967_01449         -          pks                  -            1.6e-55  198.2   2.3     3e-55  197.3   2.3   1.4   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA6172_00609        -          pks                  -            2.7e-55  197.5   3.6   4.6e-55  196.7   3.6   1.4   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA1009_01272        -          pks                  -            5.1e-55  196.6   0.0   8.4e-55  195.9   0.0   1.4   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA1506_02431        -          pks                  -            5.1e-55  196.6   0.0   8.4e-55  195.9   0.0   1.4   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA5158_02823        -          pks                  -            1.2e-54  195.4   0.0   1.8e-54  194.8   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA1527_00529        -          pks                  -            1.2e-54  195.3   0.0   1.9e-54  194.7   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA1869_03006        -          pks                  -            5.4e-54  193.2   4.9   9.7e-54  192.4   4.9   1.4   1   0   0   1   1   1   1 Putative inactive phenolphthiocerol synthesis polyketide synthase type I Pks1
+UBA6218_02368        -          pks                  -            1.3e-53  192.0   5.0   2.6e-53  191.0   3.2   2.3   2   0   0   2   2   1   1 6-deoxyerythronolide-B synthase EryA2, modules 3 and 4
+UBA7482_00213        -          pks                  -            1.4e-53  191.8   0.0   3.6e-24   95.3   0.0   2.2   2   0   0   2   2   2   2 Polyketide synthase PksN
+UBA6121_02320        -          pks                  -            1.5e-53  191.8   1.5   2.9e-53  190.8   1.5   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA4655_01780        -          pks                  -              2e-53  191.3   2.7   4.4e-53  190.2   2.7   1.5   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA6061_05210        -          pks                  -            2.3e-53  191.2   0.0   4.2e-53  190.3   0.0   1.5   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA1012_01959        -          pks                  -            2.4e-53  191.1   0.0   5.3e-53  190.0   0.0   1.6   1   0   0   1   1   1   1 Narbonolide/10-deoxymethynolide synthase PikA2, modules 3 and 4
+UBA6621_01521        -          pks                  -            2.4e-53  191.1   0.0   5.3e-53  190.0   0.0   1.6   1   0   0   1   1   1   1 Narbonolide/10-deoxymethynolide synthase PikA2, modules 3 and 4
+UBA725_04213         -          pks                  -            2.4e-53  191.1   0.0   5.3e-53  190.0   0.0   1.6   1   0   0   1   1   1   1 Narbonolide/10-deoxymethynolide synthase PikA2, modules 3 and 4
+UBA7310_04128        -          pks                  -            2.4e-53  191.1   0.0   5.3e-53  190.0   0.0   1.6   1   0   0   1   1   1   1 Narbonolide/10-deoxymethynolide synthase PikA2, modules 3 and 4
+UBA7796_00254        -          pks                  -            2.4e-53  191.1   0.0   5.3e-53  190.0   0.0   1.6   1   0   0   1   1   1   1 Narbonolide/10-deoxymethynolide synthase PikA2, modules 3 and 4
+UBA855_04216         -          pks                  -            2.4e-53  191.1   0.0   5.3e-53  190.0   0.0   1.6   1   0   0   1   1   1   1 Narbonolide/10-deoxymethynolide synthase PikA2, modules 3 and 4
+UBA7805_02174        -          pks                  -            2.7e-53  190.9   0.9   4.6e-53  190.2   0.9   1.4   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA7622_01899        -          pks                  -            2.9e-53  190.8   0.8   6.5e-53  189.7   0.8   1.6   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA2367_03326        -          pks                  -              6e-53  189.8   0.9   1.1e-52  188.9   0.0   2.0   3   0   0   3   3   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA5020_02073        -          pks                  -            6.9e-53  189.6   0.0   1.1e-52  188.9   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA6146_01231        -          pks                  -            1.1e-52  189.0   2.8   2.1e-52  188.0   2.8   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA901_03826         -          pks                  -            1.1e-52  188.9   5.0   2.3e-52  187.9   5.0   1.6   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA2987_01259        -          pks                  -            1.9e-52  188.2   0.0   4.8e-52  186.8   0.0   1.7   2   0   0   2   2   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA6138_00929        -          pks                  -            8.1e-52  186.1   0.0   1.7e-51  185.1   0.0   1.6   1   0   0   1   1   1   1 Linear gramicidin synthase subunit D
+UBA7541_01463        -          pks                  -            1.2e-51  185.5   0.2   2.2e-51  184.7   0.2   1.4   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsE
+UBA7681_02301        -          pks                  -            3.2e-51  184.1   0.1   1.1e-50  182.3   0.0   1.9   2   0   0   2   2   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA978_03350         -          pks                  -            7.6e-50  179.6   3.0   8.3e-50  179.5   1.3   2.0   2   0   0   2   2   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA2381_00197        -          pks                  -            1.3e-49  178.9   0.0   2.1e-49  178.2   0.0   1.4   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA5790_02256        -          pks                  -            2.6e-49  177.9   6.2   4.7e-49  177.0   6.2   1.4   1   0   0   1   1   1   1 6-deoxyerythronolide-B synthase EryA2, modules 3 and 4
+UBA1291_03531        -          pks                  -            3.6e-49  177.4   0.1   6.6e-49  176.5   0.1   1.4   1   0   0   1   1   1   1 6-deoxyerythronolide-B synthase EryA2, modules 3 and 4
+UBA5704_03790        -          pks                  -              4e-49  177.3   1.1   5.8e-49  176.7   1.1   1.2   1   0   0   1   1   1   1 Polyketide synthase PksM
+UBA2327_00463        -          pks                  -            4.2e-49  177.2   4.2   8.9e-49  176.1   4.2   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA6061_04567        -          pks                  -            8.3e-49  176.2   0.0   1.5e-48  175.3   0.0   1.4   1   0   0   1   1   1   1 Putative inactive phenolphthiocerol synthesis polyketide synthase type I Pks1
+UBA2783_02664        -          pks                  -            8.5e-49  176.2   5.1   1.6e-48  175.3   5.1   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA6631_00782        -          pks                  -            1.8e-48  175.1   5.7   3.5e-48  174.2   5.7   1.4   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA1129_00276        -          pks                  -            2.4e-48  174.7   3.6   5.1e-48  173.6   3.6   1.6   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA3173_00420        -          pks                  -            2.5e-48  174.6   3.8   5.1e-48  173.6   3.8   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA662_00310         -          pks                  -            2.7e-48  174.5   0.2   4.6e-48  173.8   0.2   1.4   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA3557_04354        -          pks                  -            3.3e-48  174.2   0.3   5.5e-48  173.5   0.3   1.4   1   0   0   1   1   1   1 Gramicidin S synthase 2
+UBA2386_01698        -          pks                  -            3.5e-48  174.2   3.9   1.1e-47  172.6   3.9   1.8   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA4112_01735        -          pks                  -            5.2e-48  173.6   0.0   8.1e-48  173.0   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksM
+UBA2385_03881        -          pks                  -            6.2e-48  173.3  10.5   6.4e-48  173.3   8.1   2.2   2   0   0   2   2   1   1 Mycolipanoate synthase
+UBA1592_01793        -          pks                  -            7.9e-48  173.0   0.4     2e-47  171.7   0.4   1.7   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA6163_01821        -          pks                  -            1.8e-47  171.8   0.1   3.1e-47  171.0   0.1   1.4   1   0   0   1   1   1   1 Phthioceranic/hydroxyphthioceranic acid synthase
+UBA4506_00107        -          pks                  -            3.6e-47  170.8   0.0   5.9e-47  170.1   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA6219_00149        -          pks                  -            6.8e-47  169.9  10.4   5.4e-41  150.5   4.3   3.6   3   0   0   3   3   3   2 Polyketide synthase PksL
+UBA5704_03928        -          pks                  -            7.1e-47  169.9   2.7   3.6e-46  167.5   3.7   1.6   2   0   0   2   2   1   1 Phthiocerol synthesis polyketide synthase type I PpsE
+UBA1320_00662        -          pks                  -            1.3e-46  169.0   0.0   1.8e-46  168.5   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksM
+UBA6558_01653        -          pks                  -            1.6e-46  168.7   0.0   2.1e-46  168.3   0.0   1.1   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA4112_01736        -          pks                  -            2.3e-46  168.2   0.0   3.1e-46  167.7   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA2572_01221        -          pks                  -            2.4e-46  168.1   0.1   4.4e-46  167.3   0.1   1.3   1   0   0   1   1   1   1 6-deoxyerythronolide-B synthase EryA2, modules 3 and 4
+UBA4530_01078        -          pks                  -            3.4e-46  167.6   3.6   7.5e-46  166.5   3.6   1.6   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA3556_03107        -          pks                  -            5.1e-46  167.1   0.0   1.6e-45  165.5   0.0   1.8   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA2315_01083        -          pks                  -              6e-46  166.8   3.1   1.3e-45  165.8   3.1   1.5   1   0   0   1   1   1   1 6-deoxyerythronolide-B synthase EryA2, modules 3 and 4
+UBA6585_01655        -          pks                  -              6e-46  166.8   3.1   1.3e-45  165.8   3.1   1.5   1   0   0   1   1   1   1 6-deoxyerythronolide-B synthase EryA2, modules 3 and 4
+UBA4388_03392        -          pks                  -            1.9e-45  165.2   0.1     4e-45  164.1   0.1   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA6061_04570        -          pks                  -            2.6e-45  164.7   0.0   4.2e-45  164.0   0.0   1.4   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA7658_02360        -          pks                  -            3.2e-45  164.4   0.0     5e-45  163.8   0.0   1.3   1   0   0   1   1   1   1 6-deoxyerythronolide-B synthase EryA2, modules 3 and 4
+UBA3142_00523        -          pks                  -            3.9e-45  164.1   0.0   8.8e-45  163.0   0.0   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA938_01596         -          pks                  -            4.5e-45  163.9   0.0   1.4e-27  106.6   0.0   2.4   2   1   0   2   2   2   2 Narbonolide/10-deoxymethynolide synthase PikA3, module 5
+UBA7851_03631        -          pks                  -            4.8e-45  163.9   0.1   1.2e-44  162.5   0.1   1.6   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA6558_02630        -          pks                  -            1.1e-44  162.7   0.0     2e-44  161.8   0.0   1.4   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA7321_01108        -          pks                  -              2e-44  161.8   0.0   3.4e-44  161.1   0.0   1.3   1   0   0   1   1   1   1 Linear gramicidin synthase subunit B
+UBA4491_00676        -          pks                  -            2.3e-44  161.6   0.2   4.7e-44  160.6   0.2   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsE
+UBA5777_04337        -          pks                  -            2.9e-44  161.3   2.1   6.4e-44  160.2   2.1   1.6   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA5705_02929        -          pks                  -            2.9e-44  161.3   0.0   4.5e-44  160.7   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksL
+UBA4112_01725        -          pks                  -            4.9e-44  160.6   0.0     8e-44  159.8   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA5783_03661        -          pks                  -            5.5e-44  160.4   0.0   8.3e-44  159.8   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA1010_01214        -          pks                  -            5.6e-44  160.3   0.0   9.2e-44  159.7   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA1960_00748        -          pks                  -            5.6e-44  160.3   0.0   9.2e-44  159.7   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA3578_03119        -          pks                  -            6.2e-44  160.2   0.0   8.6e-44  159.7   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA666_02266         -          pks                  -            6.2e-44  160.2   1.9   1.4e-43  159.0   1.9   1.6   1   0   0   1   1   1   1 Putative inactive phenolphthiocerol synthesis polyketide synthase type I Pks1
+UBA1660_02643        -          pks                  -            1.1e-43  159.4   2.6   2.1e-43  158.5   2.6   1.4   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA6055_03260        -          pks                  -            1.3e-43  159.2   0.0   2.1e-43  158.5   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA7704_00481        -          pks                  -            1.7e-43  158.8   0.1   4.1e-43  157.5   0.0   1.7   2   0   0   2   2   1   1 Polyketide synthase PksJ
+UBA6129_01221        -          pks                  -              2e-43  158.5   0.0   2.8e-43  158.1   0.0   1.2   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA7656_01540        -          pks                  -            4.1e-43  157.5   0.0   6.7e-43  156.8   0.0   1.4   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA6315_02857        -          pks                  -            6.6e-43  156.8   3.1   1.2e-42  156.0   3.1   1.4   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA2566_00324        -          pks                  -            7.2e-43  156.7   0.0   1.2e-42  156.0   0.0   1.4   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsE
+UBA6050_04681        -          pks                  -            8.5e-43  156.5   0.0   1.4e-42  155.8   0.0   1.4   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsE
+UBA2028_02623        -          pks                  -              3e-42  154.7   0.0     5e-42  153.9   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA5870_03015        -          pks                  -            3.7e-42  154.4   1.0   1.1e-24   97.1   0.2   2.3   2   0   0   2   2   2   2 Polyketide synthase PksL
+UBA5916_03168        -          pks                  -            6.1e-42  153.7   0.1   1.5e-41  152.4   0.1   1.6   1   0   0   1   1   1   1 6-deoxyerythronolide-B synthase EryA2, modules 3 and 4
+UBA739_03182         -          pks                  -              7e-42  153.5   0.0   1.1e-41  152.8   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA7500_01322        -          pks                  -            7.9e-42  153.3   3.9   1.5e-41  152.4   3.9   1.4   1   0   0   1   1   1   1 Polyketide synthase PksL
+UBA3548_00542        -          pks                  -            9.8e-42  153.0   0.0   1.4e-41  152.4   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksL
+UBA3975_01737        -          pks                  -            2.1e-41  151.9   0.8   4.4e-41  150.8   0.8   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA2319_00570        -          pks                  -            2.6e-41  151.6   0.0     4e-41  151.0   0.0   1.2   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA2330_00953        -          pks                  -            2.6e-41  151.6   0.0     4e-41  151.0   0.0   1.2   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA3587_00852        -          pks                  -            3.1e-41  151.4   2.9   6.7e-41  150.3   2.9   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsE
+UBA938_01938         -          pks                  -            3.8e-41  151.1   0.0   8.1e-41  150.0   0.0   1.5   1   0   0   1   1   1   1 Polyketide synthase PksM
+UBA935_00755         -          pks                  -            3.9e-41  151.0   0.0   5.7e-41  150.5   0.0   1.3   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA5870_00271        -          pks                  -            4.1e-41  151.0   0.1   6.4e-41  150.3   0.1   1.3   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA4427_00203        -          pks                  -            4.7e-41  150.8   0.0   7.9e-41  150.0   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA1963_01808        -          pks                  -            9.1e-41  149.8   0.0   2.2e-40  148.5   0.0   1.6   1   1   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+UBA4493_03797        -          pks                  -            9.2e-41  149.8   0.0     2e-40  148.7   0.0   1.6   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA5086_00527        -          pks                  -            1.7e-40  148.9   0.0   2.7e-40  148.3   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA5297_00804        -          pks                  -              2e-40  148.7   0.4   2.9e-40  148.1   0.4   1.3   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA5705_00348        -          pks                  -              3e-40  148.1   0.0   4.7e-40  147.5   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA5877_03186        -          pks                  -            3.1e-40  148.0   0.0   6.1e-40  147.1   0.0   1.4   1   0   0   1   1   1   1 6-deoxyerythronolide-B synthase EryA2, modules 3 and 4
+UBA996_01895         -          pks                  -            5.4e-40  147.3  10.1   1.1e-38  143.0   3.2   2.9   3   0   0   3   3   2   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA6563_02650        -          pks                  -            1.3e-39  146.1   0.0   1.9e-39  145.5   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksM
+UBA2561_01006        -          pks                  -            1.7e-39  145.6   0.0     3e-39  144.8   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsA
+UBA5066_01818        -          pks                  -            2.9e-39  144.9   0.3   6.6e-39  143.7   0.3   1.6   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA5704_05269        -          pks                  -              6e-39  143.8   2.1   1.5e-38  142.5   2.1   1.6   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA3070_01367        -          pks                  -            6.4e-39  143.7   0.1   9.9e-39  143.1   0.1   1.2   1   0   0   1   1   1   1 Chondramide synthase cmdD
+UBA938_00411         -          pks                  -            7.8e-39  143.5   0.0   1.2e-38  142.8   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA3908_01773        -          pks                  -            8.2e-39  143.4   1.5   1.8e-38  142.3   1.5   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA5704_04218        -          pks                  -            1.5e-37  139.3   0.2   2.5e-37  138.5   0.2   1.3   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA1651_00303        -          pks                  -            1.9e-37  139.0   0.0   2.7e-37  138.4   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA3823_01306        -          pks                  -            2.2e-37  138.7   0.7   5.2e-37  137.5   0.7   1.6   1   0   0   1   1   1   1 Phenyloxazoline synthase MbtB
+UBA5052_00857        -          pks                  -            3.5e-37  138.0   0.2   1.1e-36  136.4   0.2   1.8   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsE
+UBA1943_03354        -          pks                  -            3.6e-37  138.0   0.2   7.6e-37  136.9   0.2   1.5   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsE
+UBA2487_00166        -          pks                  -            3.7e-37  138.0   2.3   5.8e-37  137.3   0.4   2.1   2   0   0   2   2   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA739_03271         -          pks                  -            9.2e-37  136.7   0.0   1.3e-36  136.1   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksL
+UBA1565_01428        -          pks                  -            1.5e-36  136.0   0.0   2.9e-36  135.0   0.0   1.5   1   0   0   1   1   1   1 Polyketide synthase PksM
+UBA668_01871         -          pks                  -            1.5e-36  135.9   2.4   2.5e-36  135.2   2.4   1.4   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA6912_04021        -          pks                  -            1.9e-36  135.6   1.4   1.9e-36  135.6   1.4   1.9   2   0   0   2   2   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA1908_00162        -          pks                  -              2e-36  135.5   0.0   4.6e-21   85.1   0.0   3.2   3   0   0   3   3   3   2 Polyketide synthase PksR
+UBA3769_01489        -          pks                  -            5.1e-36  134.2   0.1   7.3e-36  133.7   0.1   1.2   1   0   0   1   1   1   1 Mycocerosic acid synthase-like polyketide synthase
+UBA2028_01884        -          pks                  -            7.2e-36  133.7   0.0   1.1e-35  133.1   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA4142_01555        -          pks                  -            8.5e-36  133.5   0.4   4.4e-35  131.2   0.4   2.0   1   1   0   1   1   1   1 Narbonolide/10-deoxymethynolide synthase PikA1, modules 1 and 2
+UBA4112_01732        -          pks                  -            8.6e-36  133.5   0.0   1.2e-35  133.0   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksM
+UBA739_01056         -          pks                  -              9e-36  133.4   0.0   1.4e-35  132.8   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA6911_03066        -          pks                  -            1.7e-35  132.5   0.0   3.7e-35  131.4   0.0   1.5   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA938_00566         -          pks                  -            3.3e-35  131.6   0.0   9.6e-34  126.8   0.0   2.2   1   1   0   1   1   1   1 Polyketide synthase PksJ
+UBA3557_02980        -          pks                  -            3.4e-35  131.5   0.0   5.9e-35  130.7   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA3975_03745        -          pks                  -            6.3e-35  130.6   2.5   1.6e-34  129.3   2.5   1.7   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA5705_00349        -          pks                  -            2.5e-34  128.7   0.0     2e-16   69.9   0.0   2.2   2   0   0   2   2   2   2 Polyketide synthase PksM
+UBA6905_00887        -          pks                  -            4.1e-34  128.0   0.0   8.4e-34  127.0   0.0   1.6   1   0   0   1   1   1   1 Narbonolide/10-deoxymethynolide synthase PikA3, module 5
+UBA1948_01985        -          pks                  -            6.4e-34  127.3   0.8   1.2e-33  126.5   0.8   1.4   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA4918_01672        -          pks                  -            3.1e-33  125.1   0.0   6.3e-33  124.1   0.0   1.4   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA4931_01323        -          pks                  -            3.1e-33  125.1   0.0   6.3e-33  124.1   0.0   1.4   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA5355_00864        -          pks                  -            3.1e-33  125.1   0.0   6.3e-33  124.1   0.0   1.4   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA5404_00763        -          pks                  -            3.1e-33  125.1   0.0   6.3e-33  124.1   0.0   1.4   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA2178_01676        -          pks                  -            3.1e-33  125.1   0.1   5.2e-33  124.3   0.1   1.3   1   0   0   1   1   1   1 Polyketide synthase PksL
+UBA5440_00662        -          pks                  -              4e-33  124.7   0.0   8.1e-33  123.7   0.0   1.4   1   0   0   1   1   1   1 Polyketide synthase PksL
+UBA4670_01826        -          pks                  -            4.7e-33  124.5   1.3     1e-32  123.4   1.3   1.5   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA5705_02926        -          pks                  -            6.2e-33  124.1   0.0   3.3e-22   88.9   0.0   3.2   2   1   0   2   2   2   2 Polyketide synthase PksL
+UBA1121_02293        -          pks                  -            7.2e-33  123.9   0.3   7.2e-33  123.9   0.3   1.6   2   0   0   2   2   1   1 Polyketide synthase PksL
+UBA700_02408         -          pks                  -            1.2e-32  123.1   0.0     2e-32  122.5   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA1004_02309        -          pks                  -            1.6e-32  122.8   2.8   3.4e-32  121.7   2.8   1.5   1   0   0   1   1   1   1 6-deoxyerythronolide-B synthase EryA2, modules 3 and 4
+UBA2404_02524        -          pks                  -            1.8e-32  122.6   0.0   3.7e-32  121.6   0.0   1.5   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA2957_02415        -          pks                  -            2.1e-32  122.3   0.2   4.9e-32  121.2   0.2   1.6   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA1671_00204        -          pks                  -            2.2e-32  122.3   1.3   4.7e-32  121.2   1.3   1.5   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA6777_05090        -          pks                  -            2.2e-32  122.3   1.3   4.7e-32  121.2   1.3   1.5   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA5241_00995        -          pks                  -            3.3e-32  121.7   0.0   6.5e-32  120.8   0.0   1.4   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA2231_01909        -          pks                  -            3.4e-32  121.7   0.0   6.4e-32  120.8   0.0   1.4   1   0   0   1   1   1   1 Narbonolide/10-deoxymethynolide synthase PikA1, modules 1 and 2
+UBA938_00486         -          pks                  -            4.8e-32  121.2   0.0   6.9e-32  120.7   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA5203_00769        -          pks                  -            5.6e-32  121.0   0.0   8.9e-32  120.3   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA5573_02762        -          pks                  -            6.2e-32  120.8   0.6   1.2e-31  119.9   0.6   1.4   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA6213_03118        -          pks                  -              1e-31  120.1   2.6   2.3e-31  119.0   2.6   1.6   1   0   0   1   1   1   1 6-deoxyerythronolide-B synthase EryA2, modules 3 and 4
+UBA2383_00607        -          pks                  -            1.6e-31  119.4   0.0   3.7e-31  118.3   0.0   1.6   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA739_00122         -          pks                  -            2.9e-31  118.6   0.0   4.8e-31  117.9   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksL
+UBA796_00537         -          pks                  -            3.3e-31  118.4   0.7   3.3e-31  118.4   0.7   2.2   2   0   0   2   2   2   1 Polyketide synthase PksJ
+UBA6940_02057        -          pks                  -            3.4e-31  118.4   0.2   7.6e-31  117.3   0.2   1.6   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA6509_02318        -          pks                  -            5.6e-31  117.7   0.0   1.1e-30  116.7   0.0   1.4   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA1845_03079        -          pks                  -            7.7e-31  117.2   0.2   1.4e-30  116.4   0.2   1.3   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA2923_01076        -          pks                  -            9.5e-31  116.9   0.0   1.4e-30  116.4   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA739_01057         -          pks                  -            1.1e-30  116.7   0.0   1.6e-30  116.2   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA5576_03368        -          pks                  -            1.2e-30  116.6   0.6   1.2e-30  116.6   0.6   2.1   2   0   0   2   2   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA5365_02050        -          pks                  -            2.4e-30  115.6   0.0   6.4e-30  114.2   0.0   1.7   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA6092_01603        -          pks                  -            2.6e-30  115.5   0.0   4.6e-30  114.7   0.0   1.4   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA847_01259         -          pks                  -              3e-30  115.3   0.0   5.7e-30  114.4   0.0   1.4   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA2792_00052        -          pks                  -            3.6e-30  115.0   0.0   7.1e-30  114.1   0.0   1.4   1   0   0   1   1   1   1 Polyketide biosynthesis malonyl CoA-acyl carrier protein transacylase BaeC
+UBA822_01845         -          pks                  -            1.2e-29  113.3   0.8   2.4e-29  112.3   0.8   1.4   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA2174_01467        -          pks                  -            1.6e-29  112.9   1.5   2.5e-29  112.2   0.6   1.9   2   0   0   2   2   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA4769_00764        -          pks                  -            1.6e-29  112.9   1.5   2.5e-29  112.2   0.6   1.9   2   0   0   2   2   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA4461_00493        -          pks                  -            1.8e-29  112.8   2.8   1.6e-26  103.0   1.7   3.7   2   1   0   2   2   1   1 Phthiocerol synthesis polyketide synthase type I PpsE
+UBA2766_01950        -          pks                  -            1.8e-29  112.8   2.8   1.6e-26  103.0   1.7   3.7   2   1   0   2   2   1   1 Phthiocerol synthesis polyketide synthase type I PpsE
+UBA5211_00665        -          pks                  -            2.1e-29  112.6   0.0   3.3e-29  111.9   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA6450_00521        -          pks                  -            3.5e-29  111.8   0.0   5.9e-29  111.0   0.0   1.4   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA5880_00841        -          pks                  -            3.5e-29  111.8   0.0   5.9e-29  111.0   0.0   1.3   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA1436_01125        -          pks                  -            4.8e-29  111.3   0.0   8.5e-29  110.5   0.0   1.4   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA5852_01783        -          pks                  -            5.1e-29  111.3   0.3   1.1e-28  110.1   0.3   1.5   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA2633_02068        -          pks                  -            8.7e-29  110.5   0.0   1.3e-28  109.9   0.0   1.3   1   0   0   1   1   1   1 Chondramide synthase cmdD
+UBA1202_00347        -          pks                  -            9.9e-29  110.3   0.0   1.6e-28  109.6   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA5705_01397        -          pks                  -            2.1e-28  109.2   0.0   1.1e-27  106.9   0.0   2.1   3   0   0   3   3   1   1 Polyketide synthase PksJ
+UBA5870_02513        -          pks                  -            2.3e-28  109.1   0.0   2.9e-28  108.8   0.0   1.1   1   0   0   1   1   1   1 Polyketide synthase dehydratase
+UBA7679_02043        -          pks                  -            2.5e-28  109.0   1.3   2.5e-28  109.0   1.3   1.7   2   0   0   2   2   1   1 Polyketide synthase PksJ
+UBA7704_00482        -          pks                  -            3.5e-28  108.5   0.6   6.3e-28  107.7   0.6   1.4   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA2385_04211        -          pks                  -              1e-27  107.0   0.4   3.1e-27  105.4   0.4   1.9   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA6915_00461        -          pks                  -            1.4e-27  106.5   0.4   2.7e-27  105.6   0.4   1.4   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA5069_01115        -          pks                  -            2.3e-27  105.8   0.8   4.9e-27  104.7   0.8   1.5   1   0   0   1   1   1   1 3-oxoacyl-[acyl-carrier-protein] synthase 2
+UBA4732_00806        -          pks                  -            2.6e-27  105.7   0.7   3.5e-27  105.2   0.7   1.0   1   0   0   1   1   1   1 Polyketide synthase dehydratase
+UBA1671_01821        -          pks                  -            2.8e-27  105.5   1.0   6.1e-27  104.4   0.0   2.0   2   0   0   2   2   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA6777_05361        -          pks                  -            2.8e-27  105.5   1.0   6.1e-27  104.4   0.0   2.0   2   0   0   2   2   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA2174_01996        -          pks                  -            3.9e-27  105.1   0.4   1.2e-26  103.5   0.1   1.9   2   0   0   2   2   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA5704_00555        -          pks                  -            5.9e-27  104.5   1.3   1.7e-26  103.0   1.3   1.7   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA860_04210         -          pks                  -            1.1e-26  103.6   0.0   2.3e-26  102.5   0.0   1.5   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA739_02881         -          pks                  -            1.1e-26  103.6   0.0   1.7e-26  102.9   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksL
+UBA7800_01671        -          pks                  -            1.3e-26  103.3   0.0   2.7e-26  102.3   0.0   1.4   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA6002_02021        -          pks                  -            1.8e-26  102.9   0.0   2.8e-26  102.2   0.0   1.2   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsA
+UBA2441_02552        -          pks                  -            2.6e-26  102.4   2.5   6.2e-25   97.9   0.0   2.5   2   0   0   2   2   2   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA2437_02385        -          pks                  -            2.7e-26  102.3   0.0   5.6e-26  101.3   0.0   1.4   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA2365_01523        -          pks                  -            3.2e-26  102.1   0.0   4.7e-26  101.5   0.0   1.2   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA2415_02425        -          pks                  -            3.2e-26  102.1   0.0   4.7e-26  101.5   0.0   1.2   1   0   0   1   1   1   1 Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+UBA5078_03098        -          pks                  -            5.4e-26  101.3   3.9   9.5e-26  100.5   3.9   1.4   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsE
+UBA6151_01249        -          pks                  -            6.2e-26  101.1   0.0   1.2e-25  100.1   0.0   1.4   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA1565_01336        -          pks                  -              7e-26  100.9   0.2   1.3e-25  100.1   0.2   1.3   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA1138_03243        -          pks                  -            1.1e-25  100.3   0.1   2.6e-25   99.1   0.1   1.5   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA5705_02661        -          pks                  -            1.4e-25   99.9   0.0   2.4e-25   99.2   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksR
+UBA739_01063         -          pks                  -            1.5e-25   99.8   0.0   2.3e-25   99.3   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA3505_02520        -          pks                  -            1.8e-25   99.6   0.0   3.5e-25   98.7   0.0   1.5   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA4791_03428        -          pks                  -            1.8e-25   99.6   0.1   4.7e-25   98.2   0.1   1.6   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA1660_00023        -          pks                  -            2.3e-25   99.2   0.5   2.3e-25   99.2   0.5   1.6   2   0   0   2   2   1   1 Polyketide synthase PksJ
+UBA3481_00258        -          pks                  -            3.3e-25   98.8   0.0   4.7e-25   98.2   0.0   1.1   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA1570_02358        -          pks                  -            4.2e-25   98.4   0.0   6.3e-25   97.8   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA6272_01120        -          pks                  -            7.9e-25   97.5   1.1   7.9e-25   97.5   1.1   2.3   2   0   0   2   2   2   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA6704_00363        -          pks                  -              8e-25   97.5   2.2   1.3e-24   96.8   2.2   1.3   1   0   0   1   1   1   1 4'-phosphopantetheinyl transferase
+UBA877_01185         -          pks                  -            1.1e-24   97.0   0.0   1.8e-24   96.4   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA2766_01819        -          pks                  -            1.7e-24   96.4   0.0   3.5e-24   95.4   0.0   1.4   2   0   0   2   2   1   1 Polyketide synthase dehydratase
+UBA4461_02051        -          pks                  -            1.7e-24   96.4   0.0   3.5e-24   95.4   0.0   1.4   2   0   0   2   2   1   1 Polyketide synthase dehydratase
+UBA1466_01261        -          pks                  -            1.9e-24   96.3   0.0     3e-24   95.6   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA5616_03011        -          pks                  -            1.9e-24   96.2   0.0   3.2e-24   95.5   0.0   1.2   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA5867_01806        -          pks                  -              2e-24   96.2   0.0   3.4e-24   95.4   0.0   1.3   1   0   0   1   1   1   1 Mycocerosic acid synthase-like polyketide synthase
+UBA6802_00024        -          pks                  -            2.2e-24   96.0   0.0   3.7e-24   95.3   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA4743_01029        -          pks                  -            3.8e-24   95.2   2.1   6.8e-24   94.4   2.1   1.4   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsD
+UBA1432_03169        -          pks                  -            4.3e-24   95.1   0.1   8.6e-24   94.1   0.1   1.4   1   0   0   1   1   1   1 Polyketide synthase PksL
+UBA5552_01819        -          pks                  -            4.4e-24   95.1   0.1   8.2e-24   94.2   0.1   1.3   1   0   0   1   1   1   1 Polyketide synthase PksL
+UBA1304_00836        -          pks                  -            5.4e-24   94.8   0.0   8.2e-24   94.2   0.0   1.2   1   0   0   1   1   1   1 Gramicidin S synthase 2
+UBA2245_02274        -          pks                  -            6.4e-24   94.5   0.0   1.4e-23   93.4   0.0   1.4   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA2189_02883        -          pks                  -            6.9e-24   94.4   0.0   1.2e-23   93.6   0.0   1.3   1   0   0   1   1   1   1 Phthiocerol synthesis polyketide synthase type I PpsE
+UBA4072_01429        -          pks                  -              7e-24   94.4   0.0   1.3e-23   93.5   0.0   1.4   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA642_01034         -          pks                  -            8.1e-24   94.2   0.0   1.3e-23   93.5   0.0   1.2   1   0   0   1   1   1   1 6-deoxyerythronolide-B synthase EryA3, modules 5 and 6
+UBA6111_00220        -          pks                  -            8.3e-24   94.1   0.2   8.3e-24   94.1   0.2   1.7   2   0   0   2   2   1   1 Narbonolide/10-deoxymethynolide synthase PikA3, module 5
+UBA2273_01001        -          pks                  -            9.2e-24   94.0   0.1   1.2e-23   93.7   0.1   1.0   1   0   0   1   1   1   1 Polyketide synthase dehydratase
+UBA2072_04666        -          pks                  -            9.8e-24   93.9   0.0   1.8e-23   93.0   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksM
+UBA2270_01681        -          pks                  -              1e-23   93.9   0.0   1.3e-23   93.5   0.0   1.0   1   0   0   1   1   1   1 Polyketide synthase dehydratase
+UBA1437_01731        -          pks                  -            1.1e-23   93.8   0.0   1.6e-23   93.2   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksN
+UBA5852_02191        -          pks                  -            1.3e-23   93.5   0.4   5.2e-23   91.5   0.0   2.2   2   0   0   2   2   1   1 Polyketide biosynthesis protein BaeE
+UBA969_01244         -          pks                  -            1.9e-23   92.9   0.0   3.3e-23   92.2   0.0   1.3   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA698_00341         -          pks                  -            2.1e-23   92.8   0.0   3.8e-23   92.0   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA698_03962         -          pks                  -            2.2e-23   92.7   0.0   7.3e-23   91.0   0.0   1.8   2   0   0   2   2   1   1 Polyketide synthase PksJ
+UBA2385_05396        -          pks                  -            2.7e-23   92.5   1.1   2.7e-23   92.5   1.1   2.1   2   0   0   2   2   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA698_02458         -          pks                  -            3.5e-23   92.1   0.0   7.4e-23   91.0   0.0   1.5   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA1411_00907        -          pks                  -            3.8e-23   92.0   0.5   4.7e-23   91.7   0.5   1.0   1   0   0   1   1   1   1 Polyketide synthase dehydratase
+UBA6191_02129        -          pks                  -            5.4e-23   91.5   0.0   8.2e-23   90.9   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA5828_00504        -          pks                  -              7e-23   91.1   0.6   8.6e-23   90.8   0.6   1.0   1   0   0   1   1   1   1 Polyketide synthase dehydratase
+UBA3070_00581        -          pks                  -            8.2e-23   90.9   0.3   1.5e-22   90.0   0.3   1.3   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA2213_00553        -          pks                  -            9.8e-23   90.6   0.0   1.2e-22   90.3   0.0   1.0   1   0   0   1   1   1   1 Polyketide synthase dehydratase
+UBA2230_01632        -          pks                  -            1.4e-22   90.1   0.1   2.5e-22   89.3   0.1   1.3   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA4506_02177        -          pks                  -            1.7e-22   89.8   0.0   4.7e-22   88.4   0.0   1.8   1   1   0   1   1   1   1 6-deoxyerythronolide-B synthase EryA1, modules 1 and 2
+UBA1014_01613        -          pks                  -              2e-22   89.6   0.0   2.9e-22   89.1   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA2159_00284        -          pks                  -              2e-22   89.6   0.0   2.9e-22   89.1   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA7892_02549        -          pks                  -              2e-22   89.6   0.0   2.9e-22   89.1   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA2138_03028        -          pks                  -              2e-22   89.6   0.0   2.9e-22   89.1   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA2192_02043        -          pks                  -            2.2e-22   89.5   0.0   3.3e-22   88.9   0.0   1.2   1   0   0   1   1   1   1 Malonyl CoA-acyl carrier protein transacylase
+UBA6124_01253        -          pks                  -            2.3e-22   89.4   0.1   2.9e-22   89.1   0.1   1.1   1   0   0   1   1   1   1 Polyketide synthase dehydratase
+UBA7520_01725        -          pks                  -            2.7e-22   89.2   0.0   3.3e-22   88.9   0.0   1.0   1   0   0   1   1   1   1 Polyketide synthase dehydratase
+UBA1272_00002        -          pks                  -            3.2e-22   88.9   0.9   8.7e-22   87.5   0.1   1.9   2   0   0   2   2   1   1 Polyketide synthase PksJ
+UBA5612_01140        -          pks                  -            3.3e-22   88.9   0.0   5.3e-22   88.2   0.0   1.3   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA1597_00435        -          pks                  -            3.8e-22   88.7   0.0   6.1e-22   88.0   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksR
+UBA5297_00674        -          pks                  -            5.6e-22   88.1   2.1   5.6e-22   88.1   2.1   2.5   2   1   0   2   2   1   1 Polyketide synthase PksJ
+UBA7482_00211        -          pks                  -            7.5e-22   87.7   0.0   1.2e-21   87.1   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksL
+UBA3994_01793        -          pks                  -            7.8e-22   87.7   0.0   1.1e-21   87.2   0.0   1.2   1   0   0   1   1   1   1 Dimodular nonribosomal peptide synthase
+UBA2385_03986        -          pks                  -            8.4e-22   87.6   2.0   2.1e-21   86.3   0.9   2.2   2   1   0   2   2   1   1 4-hydroxy-2,2'-bipyrrole-5-methanol synthase PigH
+UBA3308_03141        -          pks                  -            1.3e-21   87.0   0.0     2e-21   86.3   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA3957_00039        -          pks                  -            1.3e-21   87.0   0.0     2e-21   86.3   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA3958_00814        -          pks                  -            1.3e-21   87.0   0.0     2e-21   86.3   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA2130_00299        -          pks                  -            1.9e-21   86.4   0.0   3.2e-21   85.7   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase dehydratase
+UBA2156_02035        -          pks                  -            1.9e-21   86.4   0.0   3.2e-21   85.7   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase dehydratase
+UBA5681_02764        -          pks                  -            1.9e-21   86.4   0.0   3.2e-21   85.7   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase dehydratase
+UBA2225_02310        -          pks                  -            2.4e-21   86.1   0.0   3.4e-21   85.6   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA4791_01327        -          pks                  -            2.8e-21   85.8   1.0   3.8e-21   85.4   1.0   1.2   1   0   0   1   1   1   1 4'-phosphopantetheinyl transferase
+UBA5746_02226        -          pks                  -            3.8e-21   85.4   0.0   7.1e-21   84.5   0.0   1.3   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA5605_04283        -          pks                  -            3.8e-21   85.4   0.0   7.1e-21   84.5   0.0   1.3   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA4064_00804        -          pks                  -            3.8e-21   85.4   0.0   7.1e-21   84.5   0.0   1.3   1   0   0   1   1   1   1 Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+UBA1839_00943        -          pks                  -            4.1e-21   85.3   0.0   6.7e-21   84.6   0.0   1.3   1   0   0   1   1   1   1 Polyketide synthase PksR
+UBA1570_02156        -          pks                  -            4.7e-21   85.1   0.0   8.9e-21   84.2   0.0   1.4   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA1319_00291        -          pks                  -            5.5e-21   84.9   1.2     1e-20   84.0   1.2   1.3   1   0   0   1   1   1   1 Polyketide synthase PksJ
+UBA2197_01332        -          pks                  -            8.5e-21   84.3   0.0   1.4e-20   83.5   0.0   1.2   1   0   0   1   1   1   1 Polyketide synthase PksJ
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../hmms/pks.hmm
+# Target file:     uba-bac-proteins.faa
+# Option settings: hmmsearch --tblout table-pks.out -E 1e-20 ../hmms/pks.hmm uba-bac-proteins.faa 
+# Current dir:     /clusterfs/vector/scratch/barnum/UBA-GENOMES
+# Date:            Thu Jun 21 19:26:10 2018
+# [ok]

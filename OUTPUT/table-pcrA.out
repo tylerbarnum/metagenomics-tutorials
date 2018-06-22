@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+UBA2168_01351        -          pcrA                 -           1.2e-222  751.2   0.3  5.8e-221  745.7   0.3   2.0   1   1   0   1   1   1   1 Perchlorate reductase subunit alpha
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /clusterfs/vector/scratch/barnum/hmms/pcrA.hmm
+# Target file:     uba-bac-proteins.faa
+# Option settings: hmmsearch --tblout table-pcrA.out -E 1e-200 /clusterfs/vector/scratch/barnum/hmms/pcrA.hmm uba-bac-proteins.faa 
+# Current dir:     /clusterfs/vector/scratch/barnum/UBA-GENOMES
+# Date:            Wed Jun 20 15:31:14 2018
+# [ok]

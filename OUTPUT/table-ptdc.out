@@ -1,0 +1,13 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /clusterfs/vector/scratch/barnum/hmms/ptdc.hmm
+# Target file:     uba-bac-proteins.faa
+# Option settings: hmmsearch --tblout table-ptdc.out -E 1e-100 /clusterfs/vector/scratch/barnum/hmms/ptdc.hmm uba-bac-proteins.faa 
+# Current dir:     /clusterfs/vector/scratch/barnum/UBA-GENOMES
+# Date:            Wed Jun 20 16:23:23 2018
+# [ok]
