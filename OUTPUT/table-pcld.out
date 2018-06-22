@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+UBA7399_00885        -          pcld                 -           4.5e-108  370.2   0.0  5.3e-108  370.0   0.0   1.0   1   0   0   1   1   1   1 Chlorite dismutase
+UBA5699_03287        -          pcld                 -           7.2e-108  369.5   0.1  8.7e-108  369.2   0.1   1.0   1   0   0   1   1   1   1 Chlorite dismutase
+UBA5698_02812        -          pcld                 -           2.4e-107  367.8   0.0  2.7e-107  367.6   0.0   1.0   1   0   0   1   1   1   1 Chlorite dismutase
+UBA5702_03116        -          pcld                 -           2.4e-107  367.8   0.0  2.7e-107  367.6   0.0   1.0   1   0   0   1   1   1   1 Chlorite dismutase
+UBA2082_00471        -          pcld                 -           7.3e-107  366.2   0.0  8.8e-107  365.9   0.0   1.0   1   0   0   1   1   1   1 Chlorite dismutase
+UBA7655_00428        -          pcld                 -           6.1e-106  363.2   0.0  6.6e-106  363.1   0.0   1.0   1   0   0   1   1   1   1 Chlorite dismutase
+UBA4129_01190        -          pcld                 -             4e-104  357.2   0.0  4.4e-104  357.1   0.0   1.0   1   0   0   1   1   1   1 Chlorite dismutase
+UBA667_00651         -          pcld                 -             4e-104  357.2   0.0  4.4e-104  357.1   0.0   1.0   1   0   0   1   1   1   1 Chlorite dismutase
+UBA7240_02599        -          pcld                 -             4e-104  357.2   0.0  4.4e-104  357.1   0.0   1.0   1   0   0   1   1   1   1 Chlorite dismutase
+UBA2083_00517        -          pcld                 -           4.3e-103  353.9   0.1  4.7e-103  353.7   0.1   1.0   1   0   0   1   1   1   1 Chlorite dismutase
+UBA6909_02151        -          pcld                 -           4.5e-103  353.8   0.0    5e-103  353.7   0.0   1.0   1   0   0   1   1   1   1 Chlorite dismutase
+UBA6488_00678        -          pcld                 -           1.1e-100  345.9   0.0  1.3e-100  345.7   0.0   1.0   1   0   0   1   1   1   1 Chlorite dismutase
+UBA6493_01898        -          pcld                 -           1.1e-100  345.9   0.0  1.3e-100  345.7   0.0   1.0   1   0   0   1   1   1   1 Chlorite dismutase
+UBA2083_00476        -          pcld                 -            2.3e-92  318.7   0.1   2.5e-92  318.5   0.1   1.0   1   0   0   1   1   1   1 Chlorite dismutase
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../hmms/pcld.hmm
+# Target file:     uba-bac-proteins.faa
+# Option settings: hmmsearch --tblout table-pcld.out -E 1e-50 ../hmms/pcld.hmm uba-bac-proteins.faa 
+# Current dir:     /clusterfs/vector/scratch/barnum/UBA-GENOMES
+# Date:            Thu Jun 21 09:35:38 2018
+# [ok]
